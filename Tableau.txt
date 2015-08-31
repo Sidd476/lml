@@ -1,0 +1,3 @@
+http://www.tableau.com/learn/training
+
+http://www.tableau.com/support/manuals/quickstart
